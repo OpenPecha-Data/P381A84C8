@@ -1,0 +1,31 @@
+id: P381A84C8
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG426
+  instance_id: http://purl.bdrc.io/resource/IE1KG426
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དུང་སྒྲ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - hai luo zhi sheng
+  author: http://purl.bdrc.io/resource/P1KG427
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    a78e830ed64b4781b53d2163ea68657d:
+      title: པོད ༡་དུང་སྒྲ
+      volume_number: 1
+      base_file: UT1KG426_I1KG433_0000.txt
+      reference: http://purl.bdrc.io/resource/VL170708C9BEB0AC3B
+      image_group: I1KG433
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG426
+  - http://purl.bdrc.io/resource/W1KG426
+  ocr_software: Namsel
+created_at: '2021-12-22T10:40:00.545084'
+last_modified_at: '2021-12-22T10:40:00.545090'
